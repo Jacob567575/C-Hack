@@ -21,8 +21,8 @@ $mail->Port = 587;
 
 // Set the SMTP authentication method and credentials
 $mail->SMTPAuth = true;
-$mail->Username = 'your_email@gmail.com';
-$mail->Password = 'your_password';
+$mail->Username = 'donotreply177776@gmail.com';
+$mail->Password = 'DONOTREPLY';
 
 // Set the email recipient, subject, and body
 $mail->addAddress($to);
